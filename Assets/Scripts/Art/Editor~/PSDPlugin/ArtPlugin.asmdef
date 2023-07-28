@@ -1,0 +1,12 @@
+{
+    "name": "ArtPlugin",
+    "references": [
+        "Unity.Burst"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true
+}
